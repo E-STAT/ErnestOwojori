@@ -1,5 +1,5 @@
-Full Name: Owojori Ernest Tolulope
-Email: owojori.tolulope@gmail.com
-Slack Username: Ernest Owojori
-Track: Backend
+Full Name: Owojori Ernest Tolulope.
+Email: owojori.tolulope@gmail.com.
+Slack Username: Ernest Owojori.
+Track: Backend.
 Courses: C# and Python. 
